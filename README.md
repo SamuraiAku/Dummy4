@@ -1,3 +1,5 @@
 # Dummy4
 
-[![Build Status](https://github.com/SamuraiAku/Dummy4.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/SamuraiAku/Dummy4.jl/actions/workflows/CI.yml?query=branch%3Amain)
+NOT registered with DummyRegistry. 
+
+This package has no functionality. Used only for testing the package [PkgToSoftwareBOM.jl](https://github.com/SamuraiAku/PkgToSoftwareBOM.jl)
